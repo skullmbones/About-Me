@@ -12,9 +12,9 @@
 ---
 
 ### 🧰 Skills
-**Languages:** Java, JavaFX, C, C#, Lua, R, HTML, CSS
-**Tools & Frameworks:** Git, Android Studio, IntelliJ, Unity
-**Areas of Interest:** Game Development, Software Engineering, Web Development
+- **Languages:** Java, JavaFX, C, C#, Lua, R, HTML, CSS
+- **Tools & Frameworks:** Git, Android Studio, IntelliJ, Unity
+- **Areas of Interest:** Game Development, Software Engineering, Web Development
 
 ---
 
